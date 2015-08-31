@@ -1,0 +1,16 @@
+#!/bin/bash
+
+cat << EOF
+*******************************************
+                                          
+            Welcome on Kanboard           
+
+URL: http://$(oc-metadata --cached PUBLIC_IP_ADDRESS)
+
+Login: admin
+Password: admin
+
+!! Don't forget to change your password !!
+
+*******************************************
+EOF
