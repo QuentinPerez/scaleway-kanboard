@@ -1,5 +1,4 @@
-DOCKER_NAMESPACE =	armbuild/
-NAME =			scw-app-kanboard
+NAME =			kanboard
 VERSION =		latest
 VERSION_ALIASES =	1.0 1
 TITLE =			Kanboard

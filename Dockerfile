@@ -1,5 +1,5 @@
 # Base image - ubuntu:vivid
-FROM armbuild/scw-distrib-ubuntu:vivid
+FROM scaleway/ubuntu:vivid
 
 RUN apt-get install -y php5 php5-sqlite unzip
 
