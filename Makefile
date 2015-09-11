@@ -4,7 +4,7 @@ VERSION =		latest
 VERSION_ALIASES =	1.0 1
 TITLE =			Kanboard
 DESCRIPTION =		Kanboard is a project management software that use the Kanban methodology
-SOURCE_URL =		https://github.com/scaleway/image-app-kanboard
+SOURCE_URL =		https://github.com/scaleway-community/scaleway-kanboard
 
 IMAGE_VOLUME_SIZE =	50G
 IMAGE_BOOTSCRIPT =	stable
